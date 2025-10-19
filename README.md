@@ -78,5 +78,3 @@ MIT License
 ---
 
 **Author:** Vaishnav Ravindran
-
-This project is for learning/demo purposes. Add a license if needed.
