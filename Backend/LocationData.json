@@ -1,0 +1,109 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "place_name": "New York City",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "id": "2",
+      "place_name": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    },
+    {
+      "id": "3",
+      "place_name": "Paris",
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "id": "4",
+      "place_name": "Sydney",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093
+    },
+    {
+      "id": "5",
+      "place_name": "Cape Town",
+      "country": "South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241
+    },
+    {
+      "id": "6",
+      "place_name": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729
+    },
+    {
+      "id": "7",
+      "place_name": "Toronto",
+      "country": "Canada",
+      "latitude": 43.6511,
+      "longitude": -79.3839
+    },
+    {
+      "id": "8",
+      "place_name": "Berlin",
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405
+    },
+    {
+      "id": "9",
+      "place_name": "Mumbai",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777
+    },
+    {
+      "id": "10",
+      "place_name": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.2769,
+      "longitude": 55.2963
+    },
+    {
+      "id": "11",
+      "place_name": "Rome",
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "id": "12",
+      "place_name": "London",
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "id": "13",
+      "place_name": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198
+    },
+    {
+      "id": "14",
+      "place_name": "Seoul",
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
+    {
+      "id": "15",
+      "place_name": "Istanbul",
+      "country": "Turkey",
+      "latitude": 41.0082,
+      "longitude": 28.9784
+    }
+  ]
+}
